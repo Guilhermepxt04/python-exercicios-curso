@@ -1,0 +1,5 @@
+cidade = input('Em qual cidade você nasceu?: ')
+teste = cidade.split()
+''.join(teste)
+teste = cidade.lower()
+print('santo' in teste)

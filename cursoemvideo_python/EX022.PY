@@ -1,0 +1,7 @@
+nome = str(input('digite seu nome completo: ')).strip()
+sem_espaços = nome.split()
+nomev = "".join(sem_espaços)
+print(f'seu nome todo em maisculo fica {nome.upper()}')
+print(f'seu nome todo em minusculo fica {nome.lower()}')
+print(f'seu nome tem {len(nomev)} letras')
+print(f'seu primeiro nome tem {len(sem_espaços[0])} letras')
