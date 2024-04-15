@@ -1,7 +1,6 @@
 geral = list()
 alunos = list()
 notas = list()
-soma = 0
 
 while True:
     alunos.append(str(input('Digite um nome: ')))
