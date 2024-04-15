@@ -20,7 +20,7 @@ print('='*40)
 for g in range(len(geral)):
     n = geral[g][1]
     media = (n[0] + n[1]) / 2
-    print(f'{g:<10} {geral[g][0]:<10} {media:<10.2f}')
+    print(f'{g+1:<10} {geral[g][0]:<10} {media:<10.2f}')
 
 print('='*40)
 while True:
