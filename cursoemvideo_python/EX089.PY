@@ -15,7 +15,7 @@ while True:
     if r == 'n':
         break
 
-print(f'{'Nº':<10} {'Nome':<10} {'media':<10}')
+print(f'{"Nº":<10} {"Nome":<10} {"media":<10}')
 print('='*40)
 for g in range(len(geral)):
     n = geral[g][1]
