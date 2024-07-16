@@ -1,6 +1,4 @@
 while True:
-    if resp == 'n':
-        break
 
     saque = int(input('Quanto você quer sacar: '))
     valor = saque
@@ -27,5 +25,8 @@ while True:
         print(f' {notas_01} moedas de 1 real')
 
     resp = str(input('Quer sacar mais?[S/N]: ')).lower().strip()
+
+    if resp == 'n':
+        break
 
 print('Fim do programa, volte sempre :)')

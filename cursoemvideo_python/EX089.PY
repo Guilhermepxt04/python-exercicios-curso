@@ -4,8 +4,8 @@ notas = list()
 
 while True:
     alunos.append(str(input('Digite um nome: ')))
-    notas.append(int(input('Digite a nota do aluno: ')))
-    notas.append(int(input('Digite a nota do aluno: ')))
+    notas.append(float(input('Digite a nota do aluno: ')))
+    notas.append(float(input('Digite a nota do aluno: ')))
     alunos.append(notas[:])
     geral.append(alunos[:])
     alunos.clear()
