@@ -164,4 +164,4 @@ Fazer uma copia de listas:
 a = [3, 4, 5]
 b = a[:]
 
--~-~-~-~-~-~-~-~- Dicionarios ~-~-~-~-~-~-~-~-
+-~-~-~-~-~-~-~-~- Dicionarios ~-~-~-~-~-~-~-~-lll
