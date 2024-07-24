@@ -1,5 +1,5 @@
 filmes = dict
-locadora = []
+locadora = list()
 
 while True:
     titulo = str(input('Digite o titulo do filme: '))
@@ -22,6 +22,5 @@ for k, v in filmes.items():
 
 print(locadora)
 
-i = int(input('qual filme vc quer ver?: '))
-
-print(locadora[i])
+for k,v in enumerate(locadora):
+    print(locadora[k]['titulo'])
