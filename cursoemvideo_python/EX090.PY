@@ -1,12 +1,13 @@
-
 nome = str(input('Qual o nome do aluno?: ')).strip().capitalize()
 nota_1 = float(input('Qual a primeira nota do aluno?: '))
 nota_2 = float(input('Qual a segunda nota do aluno?: '))
 
 media = (nota_1 + nota_2) / 2
 
-if media > 5:
+if media > 7:
     situação = str('aprovado')
+elif 5 < media < 7:
+    situação = str('recuperação')
 else:
     situação = str('reprovado')
 

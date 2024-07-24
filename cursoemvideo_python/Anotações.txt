@@ -163,3 +163,5 @@ qualquer coisa feita em 1 lista afeta a outra
 Fazer uma copia de listas:
 a = [3, 4, 5]
 b = a[:]
+
+-~-~-~-~-~-~-~-~- Dicionarios ~-~-~-~-~-~-~-~-
