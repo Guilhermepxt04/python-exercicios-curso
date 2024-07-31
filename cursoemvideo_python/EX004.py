@@ -1,3 +1,5 @@
+##destrinchando a variavel
+
 x = (input('digite algo: '))
 print('o tipo primitivo desse valor é', (type(x)))
 print('é um numero ou letra?', x.isalnum())

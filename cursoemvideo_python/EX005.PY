@@ -1,3 +1,5 @@
+##antecessor e sucessor
+
 n = int(input('digite um valor:'))
 n0 = n - 1
 n2 = n + 1
