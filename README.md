@@ -9,4 +9,4 @@ Este Repositório contém todos os exercicios do curso de python do canal CursoE
 
 - Lógica de programação
 - Python
-- Boas praticas na área e programação
+- Boas práticas na área e programação
