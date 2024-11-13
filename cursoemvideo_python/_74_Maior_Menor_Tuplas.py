@@ -11,4 +11,4 @@ sorted_n = sorted(n)
 
 print(sorted_n)
 
-print(f'o menor valor é {sorted_n[0]} e o maior valor é {sorted_n[4]}')
+print(f"o menor valor é {sorted_n[0]} e o maior valor é {sorted_n[4]}")
