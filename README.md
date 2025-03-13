@@ -3,7 +3,7 @@
 
 # Sobre o Repositório
 
-Este Repositório contém todos os exercicios do curso de python do canal CursoEmVideo resolvidos por mim quando comecei a aprender programação 
+Este Repositório contém todos os exercicios do curso de python do canal [CursoEmVideo](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) resolvidos por mim quando comecei a aprender programação 
 
 # Aprendizado
 
